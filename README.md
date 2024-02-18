@@ -22,4 +22,6 @@ Fireworks: Episodes 40-41
 
 Image Scanning: Episodes 42-43
 
+Boids: Episodes 44-45
+
 This list will be expanded over time.
