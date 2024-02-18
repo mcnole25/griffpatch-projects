@@ -16,4 +16,6 @@ Lemonoids: Episodes 24-27
 
 Pathfinding: Episodes 28-30
 
+RPG: Episodes 31-39
+
 This list will be expanded over time.
