@@ -18,4 +18,6 @@ Pathfinding: Episodes 28-30
 
 RPG: Episodes 31-39
 
+Fireworks: Episodes 40-41
+
 This list will be expanded over time.
