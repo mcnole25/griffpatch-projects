@@ -20,4 +20,6 @@ RPG: Episodes 31-39
 
 Fireworks: Episodes 40-41
 
+Image Scanning: Episodes 42-43
+
 This list will be expanded over time.
