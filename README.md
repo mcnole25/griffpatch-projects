@@ -30,4 +30,6 @@ Mobile Joystick: Episodes 58-59
 
 Health Bars: Episodes 60-61
 
+Series Expansion 1: Episodes 62-66
+
 This list will be expanded over time.
