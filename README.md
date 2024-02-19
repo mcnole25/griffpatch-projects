@@ -24,4 +24,6 @@ Image Scanning: Episodes 42-43
 
 Boids: Episodes 44-45
 
+Geometry Dash: Episodes 46-57
+
 This list will be expanded over time.
