@@ -26,4 +26,6 @@ Boids: Episodes 44-45
 
 Geometry Dash: Episodes 46-57
 
+Mobile Joystick: Episodes 58-59
+
 This list will be expanded over time.
