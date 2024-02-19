@@ -28,4 +28,6 @@ Geometry Dash: Episodes 46-57
 
 Mobile Joystick: Episodes 58-59
 
+Health Bars: Episodes 60-61
+
 This list will be expanded over time.
