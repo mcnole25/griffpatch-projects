@@ -4,7 +4,7 @@ A collection of recreations of Griffpatch's tutorial projects for convenience.
 
 They're almost identical and can be loaded in Scratch and Turbowarp. Credit to Griffpatch and his tutorials.
 
-This mega series is planned to have 100 episodes. Current progress: 82%
+This mega series is planned to have 100 episodes. Current progress: 86%
 
 # Sub-Series Episodes
 
@@ -34,6 +34,6 @@ Health Bars: Episodes 60-61
 
 Series Expansion 1: Episodes 62-66
 
-Mario Tile Scroll: Episodes 67-86 (WIP)
+Mario Tile Scroll: Episodes 67-86
 
 This list will be expanded over time.
