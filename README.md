@@ -4,7 +4,7 @@ A collection of recreations of Griffpatch's tutorial projects for convenience.
 
 They're almost identical and can be loaded in Scratch and Turbowarp. Credit to Griffpatch and his tutorials.
 
-This mega series is planned to have 100 episodes. Current progress: 95%
+This mega series has 100 episodes!
 
 # Sub-Series Episodes
 
@@ -38,4 +38,4 @@ Mario Tile Scroll: Episodes 67-86
 
 Scrolling Platformer: Episodes 87-95
 
-This list will be expanded over time.
+Zombie Cube: Episodes 96-100
