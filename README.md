@@ -4,7 +4,7 @@ A collection of recreations of Griffpatch's tutorial projects for convenience.
 
 They're almost identical and can be loaded in Scratch and Turbowarp. Credit to Griffpatch and his tutorials.
 
-This mega series is planned to have 100 episodes. Current progress: 78%
+This mega series is planned to have 100 episodes. Current progress: 82%
 
 # Sub-Series Episodes
 
