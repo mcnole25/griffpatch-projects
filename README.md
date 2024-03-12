@@ -1,4 +1,4 @@
-# Griffpatch Mega Series
+# Introduction
 
 A collection of recreations of Griffpatch's tutorial projects for convenience.
 
